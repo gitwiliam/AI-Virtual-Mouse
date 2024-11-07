@@ -1,3 +1,9 @@
+#!pip install pyautogui
+#!apt-get install -y x11-utils
+#!apt-get install -y xvfb
+#!pip install mediapipe
+
+
 import cv2
 import mediapipe as mp
 import pyautogui
